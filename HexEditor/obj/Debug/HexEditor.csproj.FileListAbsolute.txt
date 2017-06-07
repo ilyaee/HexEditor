@@ -1,0 +1,11 @@
+c:\users\ilya\documents\visual studio 2017\Projects\HEX\HexEditor\bin\Debug\HexEditor.exe.config
+c:\users\ilya\documents\visual studio 2017\Projects\HEX\HexEditor\bin\Debug\HexEditor.exe
+c:\users\ilya\documents\visual studio 2017\Projects\HEX\HexEditor\bin\Debug\HexEditor.pdb
+c:\users\ilya\documents\visual studio 2017\Projects\HEX\HexEditor\bin\Debug\Bibl.dll
+c:\users\ilya\documents\visual studio 2017\Projects\HEX\HexEditor\bin\Debug\Bibl.pdb
+c:\users\ilya\documents\visual studio 2017\Projects\HEX\HexEditor\obj\Debug\HexEditor.csprojResolveAssemblyReference.cache
+c:\users\ilya\documents\visual studio 2017\Projects\HEX\HexEditor\obj\Debug\HexEditor.Properties.Resources.resources
+c:\users\ilya\documents\visual studio 2017\Projects\HEX\HexEditor\obj\Debug\HexEditor.csproj.GenerateResource.Cache
+c:\users\ilya\documents\visual studio 2017\Projects\HEX\HexEditor\obj\Debug\HexEditor.exe
+c:\users\ilya\documents\visual studio 2017\Projects\HEX\HexEditor\obj\Debug\HexEditor.pdb
+C:\Users\Ilya\documents\visual studio 2017\Projects\HEX\HexEditor\obj\Debug\HexEditor.HexEditor.resources

@@ -1,0 +1,7 @@
+c:\users\ilya\documents\visual studio 2017\Projects\HEX\Bibl\bin\Debug\Bibl.dll
+c:\users\ilya\documents\visual studio 2017\Projects\HEX\Bibl\bin\Debug\Bibl.pdb
+c:\users\ilya\documents\visual studio 2017\Projects\HEX\Bibl\obj\Debug\Bibl.csprojResolveAssemblyReference.cache
+c:\users\ilya\documents\visual studio 2017\Projects\HEX\Bibl\obj\Debug\Bibl.HexControl.resources
+c:\users\ilya\documents\visual studio 2017\Projects\HEX\Bibl\obj\Debug\Bibl.csproj.GenerateResource.Cache
+c:\users\ilya\documents\visual studio 2017\Projects\HEX\Bibl\obj\Debug\Bibl.dll
+c:\users\ilya\documents\visual studio 2017\Projects\HEX\Bibl\obj\Debug\Bibl.pdb
