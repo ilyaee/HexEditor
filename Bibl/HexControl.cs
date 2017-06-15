@@ -13,8 +13,37 @@ namespace Bibl
 {
 	public partial class HexControl : UserControl
 	{
-		string[,] array;
+		public byte[] Bytes
+		{
+			get
+			{
+				char[] c = new char[datagv.RowCount * datagv.ColumnCount];
+				int k = 0;
+				for (int i = 0; i < datagv.RowCount; i++)
+					for (int j = 0; j < datagv.ColumnCount; j++)
+					{
+						c[k] = Convert.ToChar(array[i, j]);
+						k++;
+					}
 
+				byte[] ArrByte = Encoding.Default.GetBytes(c);
+
+				return ArrByte;
+			}
+			set
+			{
+				int k = 0;
+				for (int i = 0; i < datagv.RowCount; i++)
+					for (int j = 0; j < datagv.ColumnCount; j++)
+					{
+						array[i, j] = value[k].ToString();
+						k++;
+					}
+			}
+		}
+
+
+		string[,] array;
 		public HexControl()
 		{
 			InitializeComponent();
